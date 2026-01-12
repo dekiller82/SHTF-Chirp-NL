@@ -38,6 +38,7 @@ De kanalen zijn logisch ingedeeld in blokken om navigatie op de portofoon makkel
 * **Marifoon (401-459):** Alleen zenden met een Marifooncertificaat (Basiscertificaat, Marcom-B/A) en een geregistreerd schip. Zenden vanaf het land is niet toegestaan.
 * **Reddingsbrigade (460-470):** Alleen voor geautoriseerde hulpverleners tijdens inzet.
 * **Nooddiensten & SAR (501-515):** Dit zijn de meest kritieke kanalen. Zenden is **alleen toegestaan in levensbedreigende situaties** wanneer alle andere communicatiemiddelen falen. Onterecht gebruik van deze kanalen wordt zeer zwaar beboet.
+* **Alleen luisteren is altijd toegestaan**
 
 ### 2. Technisch (AM vs FM)
 Een groot deel van deze lijst (Luchtvaart / Schiphol / 118-136 MHz) gebruikt **AM-modulatie**.
