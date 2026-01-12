@@ -24,7 +24,7 @@ De kanalen zijn logisch ingedeeld in blokken om navigatie op de portofoon makkel
 ## 🚀 Hoe te gebruiken
 
 1. Download het bestand `shtf_chrip_nl.csv` uit deze repository.
-2. Open **CHIRP** en verbind je portofoon.
+2. Open **CHIRP**
 3. Ga naar `File` -> `Import`.
 4. Selecteer het `.csv` bestand.
 
