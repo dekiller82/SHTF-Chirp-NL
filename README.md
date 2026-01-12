@@ -27,7 +27,6 @@ De kanalen zijn logisch ingedeeld in blokken om navigatie op de portofoon makkel
 2. Open **CHIRP** en verbind je portofoon.
 3. Ga naar `File` -> `Import`.
 4. Selecteer het `.csv` bestand.
-5. Controleer de lijst en upload naar je radio (`Radio` -> `Upload to Radio`).
 
 ## ⚠️ Belangrijke Waarschuwingen
 
