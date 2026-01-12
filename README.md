@@ -39,13 +39,9 @@ De kanalen zijn logisch ingedeeld in blokken om navigatie op de portofoon makkel
 ### 2. Technisch (AM vs FM)
 Een groot deel van deze lijst (Luchtvaart / Schiphol / 118-136 MHz) gebruikt **AM-modulatie**.
 * Standaard Baofengs (UV-5R) ontvangen alleen **FM**. Je kunt de frequenties wel horen, maar het geluid zal vervormd zijn.
-* Moderne scanners of portofoons zoals de **Quansheng UV-K5 (met custom firmware)** of Yaesu-modellen kunnen wel AM ontvangen.
 
 ## 🛠 Compatibiliteit
-Deze lijst is getest met:
-* Baofeng UV-5R / UV-82 / GT-3
-* Quansheng UV-K5 (Aanrader voor luchtvaartontvangst)
-* Radioddity GD-77 (Analoog modus)
+Deze lijst is nog niet getest
 
 ## 🤝 Bijdragen
 Fouten gevonden of is er een repeater frequentie gewijzigd? Maak gerust een Issue aan of stuur een Pull Request!
