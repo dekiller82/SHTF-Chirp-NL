@@ -47,7 +47,7 @@ Een groot deel van deze lijst (Luchtvaart / Schiphol / 118-136 MHz) gebruikt **A
 * Standaard Baofengs (UV-5R) ontvangen alleen **FM**. Je kunt de frequenties wel horen, maar het geluid zal vervormd zijn.
 
 ## 🛠 Compatibiliteit
-Deze lijst is nog niet getest
+Deze lijst is gestest op een Baofeng Uv-25 Plus
 
 ## 🤝 Bijdragen
 Fouten gevonden of is er een repeater frequentie gewijzigd? Maak gerust een Issue aan of stuur een Pull Request!
