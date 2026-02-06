@@ -20,6 +20,7 @@ De kanalen zijn logisch ingedeeld in blokken om navigatie op de portofoon makkel
 | **460 - 470** | **Reddingsbrigade** | KNBRD landelijke kanalen | NFM |
 | **501 - 515** | **Nood / SAR** | Rode Kruis, KNRM, SAR, Noodkanalen | NFM / AM |
 | **601 - 604** | **Ruimtevaart** | ISS (International Space Station), Satellieten | NFM/WFM |
+| **701 - 714** | **Events** | Landelijk Evenementen | NFM/WFM |
 
 ## 🚀 Hoe te gebruiken
 
